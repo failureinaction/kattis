@@ -1,3 +1,4 @@
+//inorout aka mandelbrot
 #include <iostream>
 #include <cmath>
 using namespace std;
